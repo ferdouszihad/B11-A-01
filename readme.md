@@ -75,18 +75,23 @@
 
 ---
 
-## Development Notes
+## Commit and Others
 
-- The project is implemented with clean and maintainable code.
 - A minimum of five commits were made to ensure incremental progress.
-- No placeholder text (e.g., Lorem Ipsum) was used. All content is meaningful and relevant.
+- No placeholder text (e.g., Lorem Ipsum) . All content must have to be meaningful and relevant.
 
 ---
 
-## Technologies Used
+# Technology
 
-- HTML, CSS, and JavaScript for structure and styling.
-- Responsive design principles to ensure compatibility across devices.
-- GitHub for version control and collaboration.
+- HTML & CSS only
+- You can't use any other technology / Framework.
+
+---
+
+# What to Submit
+
+- Your Github Repository . ex.("https://github.com/ferdouszihad/Bangladesh2.0")
+- Your Live Link. ex.(https://ferdouszihad.github.io/Bangladesh2.0/)
 
 ---
