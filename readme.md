@@ -38,6 +38,8 @@
     - Channel Logo and Publication Time.
     - A button at the bottom for user interaction.
 
+<img src="./UI/news.png"/>
+
 ---
 
 ### 4. Donate For Bangladesh
