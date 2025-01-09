@@ -50,6 +50,8 @@
   - **Full-Width Input**: Includes a placeholder for user input.
   - **Center-Aligned Button**: Makes the action prominent and user-friendly.
 
+ <img src="./UI/donate.png"/>
+
 ---
 
 # CHALLENGES (10)
