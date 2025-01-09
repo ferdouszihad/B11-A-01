@@ -63,6 +63,8 @@
   - **Center-Aligned Title and Subtitle**: Encourages users to subscribe.
   - **Form**: Includes an input field and a button styled as per the design.
 
+ <img src="./UI/newsletter.png"/>
+
 ---
 
 ### 6. Hover Effects on Page
@@ -79,9 +81,11 @@
 - A dedicated section to display an inspirational quote with:
   - **Icon Background**: Styled as per the design for visual appeal.
 
+ <img src="./UI/quotes.png"/>
+
 ---
 
-## Commit and Others
+## 5 Commit and No Lorem Ipsum
 
 - A minimum of five commits were made to ensure incremental progress.
 - No placeholder text (e.g., Lorem Ipsum) . All content must have to be meaningful and relevant.
