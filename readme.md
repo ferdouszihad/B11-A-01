@@ -13,7 +13,8 @@
   - **Heading and Text**: Positioned on the left to highlight key information.
   - **Image**: Placed on the right to complement the content.
   - **Alignment**: Proper use of margin and padding ensures all elements align as Figma.
-    <img src="./UI/banner.png"/>
+
+<img src="./UI/banner.png"/>
 
 ---
 
