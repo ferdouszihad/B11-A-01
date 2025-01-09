@@ -26,7 +26,7 @@
   - **Title and Description**: Provides clear and concise information about the card's content.
   - **Buttons**: Styled with unique colors to differentiate actions.
 
----
+## <img src="./UI/vision.png">
 
 ### 3. Recent News
 
